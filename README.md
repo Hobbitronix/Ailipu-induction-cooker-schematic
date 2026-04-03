@@ -3,4 +3,4 @@ The shcematic of an Ailipu induction cooker.
 
 
 #Board front view
-![](pictures/board-front.png)
+![](pictures/Board-front.png)

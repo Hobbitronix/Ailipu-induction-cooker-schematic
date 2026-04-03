@@ -1,5 +1,5 @@
 # Ailipu-induction-cooker-schematic
-The shcematic of an Ailipu induction cooker.
+The schematics of an Ailipu induction cooker.
 
 
 # Board front view
